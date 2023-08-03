@@ -1,0 +1,16 @@
+- [x] ip/hostname/range
+- [x] target-port
+- [ ] output-file
+- [ ] blacklist-file
+- [ ] max-targets
+- [ ] max-results
+- [ ] mat-runtime
+- [ ] rate
+- [ ] bandwith
+- [ ] cooldown-time
+- [ ] seed
+- [ ] shards
+- [ ] shard
+- [ ] sender-threads
+- [ ] probes
+- [ ] dryrun
